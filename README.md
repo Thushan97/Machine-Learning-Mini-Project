@@ -14,7 +14,7 @@ Mini Project - Kaggle Competition and Short Paper Submission
 
 1. SVM
 2. KNN
-3. LGBM
-4. XGBoost
+3. LightGBM
+
 
 
