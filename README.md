@@ -3,19 +3,12 @@ Mini Project - Kaggle Competition and Short Paper Submission
 
 ## Used Techniques
 
-### Preprocessing
-
-1. Noramlization techniques
-2. Varaible transformation
-3. Discretization
-4. Imputation
-
 ### Feature Engineering Techniques
 
-1. Feature Selection
-2. Feature Importance
-3. Target Encoding
-4. Creation of new features
+1. Imputation - drop and fill null values
+2. Feature selction - drop unuseful columns, remove highly correlated features
+3. Handling outliers - check and fill null values
+4. Categorical Encoding - convert categorical variable to numericals
 
 ### Models
 
