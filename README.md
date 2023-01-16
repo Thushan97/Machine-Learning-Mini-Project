@@ -6,7 +6,7 @@ Mini Project - Kaggle Competition and Short Paper Submission
 ### Feature Engineering Techniques
 
 1. Imputation - drop and fill null values
-2. Feature selction - drop unuseful columns, remove highly correlated features
+2. Feature selection - drop un useful columns, remove highly correlated features
 3. Handling outliers - check and fill null values
 4. Categorical Encoding - convert categorical variable to numericals
 
