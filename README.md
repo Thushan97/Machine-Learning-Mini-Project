@@ -12,10 +12,10 @@ Mini Project - Kaggle Competition and Short Paper Submission
 
 ### Feature Engineering Techniques
 
-1. Fetaure selection
-2. Feature improtance
-3. Target encoding
-4. Creating new features
+1. Drop and fill null values
+2. Check and fill null values
+3. Convert categorical variable to numericals
+4. Remove highly correlated features
 
 ### Models
 
